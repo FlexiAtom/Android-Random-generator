@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random String</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+</resources>
